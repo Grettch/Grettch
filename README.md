@@ -6,12 +6,12 @@
 
 <h4 align="center"><samp> Hi there   welcome to my Github! I like Python and I'm exploring interactive website design 🐍 ☁️ </samp></h4>
 
-<## Currently
+## Currently
 - <a href="https://de.masterschool.com/en/domains/software-engineering/">Software Eng Student at MasterSchool</a>, Sept'24 - Nov'25
 
 -  Spanish 100% | English 99% | German 80% |
 
-  ## Previously and actively pursuing
+## Actively Pursuing
 - _In person experience_: Recording Engineer, Customer Service, Music Production, AUDIO EDITING, MIXING, RECORDING, MASTERING, MUSIC PERFORMANCE.
 - _Freelance experience_: Voice over, Voice work for hire, Podcast Remote Recording, Podcast editing + Mastering. Online Vocal Coach, Piano teacher.
 - _Artist_: Singer, Pianist, Songwriter, Coloring.
